@@ -1,4 +1,4 @@
-Name: <Your name here>
+Name: Topher Hintz
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
